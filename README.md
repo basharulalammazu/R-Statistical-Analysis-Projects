@@ -101,10 +101,10 @@ Visual outputs saved in the `assets/` folder include:
 
 ## 👨‍💻 Author
 
-**Basharul - Alam - Mazu**
-💼 BSc in CSE | American International University - Bangladesh (AIUB)
-🌐 [Portfolio](https://basharulalammazu.github.io) | 🐙 [GitHub](https://github.com/basharulalammazu)
-📧 [basharulalammazu@gmail.com](mailto:basharulalammazu@gmail.com)
+**Basharul - Alam - Mazu** <br>
+💼 BSc in CSE | American International University - Bangladesh (AIUB) <br>
+🌐 [Portfolio](https://basharulalammazu.github.io) | 🐙 [GitHub](https://github.com/basharulalammazu) <br>
+📧 [basharulalammazu@gmail.com](mailto:basharulalammazu@gmail.com) 
 
 ---
 
